@@ -1,4 +1,5 @@
 User Management REST API
+
 🚀 Features
 •	Get all users (GET /api/users)
 •	View user names in an HTML list (GET /users)
@@ -6,6 +7,7 @@ User Management REST API
 •	Update a user's data (PATCH /api/users/:id)
 •	Delete a user (DELETE /api/users/:id)
 •	Add a new user (POST /api/users)
+
 📁 Project Structure
 
 project-root/
