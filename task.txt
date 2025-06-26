@@ -1,0 +1,17 @@
+REST API - JSON
+
+GET /users - HTML Document rendered
+GET /api/users - List all the users. for mobile app dev
+
+Dynamic Path parameters
+GET /api/users/:id 
+:id - is a variable
+
+GET /api/users/1 - Get user with id 1
+GET /api/users/2 - Get user with id 2
+
+POST /api/users - create new user
+
+PATH /api/users/1 - edit user with ID 1
+
+DELETE /api/users/1 - delete user with id 1
